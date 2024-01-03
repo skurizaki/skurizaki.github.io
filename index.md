@@ -12,5 +12,6 @@ Professor Kurizaki is the winner of the Carl Beck Award, given by the Internatio
 
 - [CV](./another-page.html)
 - [Researches](./another-page.html)
+- [Teaching](./teaching.html)
 
 
