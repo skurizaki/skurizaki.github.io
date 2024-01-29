@@ -11,8 +11,8 @@ layout: default
 
 Professor Kurizaki is the winner of the Carl Beck Award, given by the International Studies Association in 2005, the Dina Zinnes Award, given by the Scientific Study of International Processes (SSIP) Section of the International Studies Association in 2006, the Miyake Ichiro Award in 2008, Waseda Teaching Award in 2014, and e-Teaching Award at Waseda University in 2017. His courses explore the causes of war and peace, the history of diplomacy, and formal political theory.
 
-- [CV](https://www.f.waseda.jp/kurizaki/cv.html)
-- [Researches](./another-page.html)
+- [CV]([https://www.f.waseda.jp/kurizaki/cv.html](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0)https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0)
+- [Research](./another-page.html)
 - [Teaching](./teaching.html)
 - [Students](./students.html)
 
