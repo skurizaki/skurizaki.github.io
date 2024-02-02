@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<h1>Bio</h1>
-
 **Shuhei Kurizaki (PhD, UCLA)** is an associate professor in the School of Political Science and Economics at Waseda University. Before joining the faculty at Waseda in 2013, he was a pre-doctoral fellow at Harvard University’s Olin Institute for Strategic Studies (2005-2006) and assistant professor in the department of political science at Texas A&M University (2006-2013). His work has appeared in American Political Science Review and International Organization among other outlets. His current research
  1. develops and tests formal models to explain how and when diplomacy works in international conflict,
  2. utilizes big-data to examine political impacts and consequences of the shifting structure of the globalized networks of production and capital flows,
