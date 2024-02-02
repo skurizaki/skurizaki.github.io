@@ -7,8 +7,9 @@ layout: default
  3. assesses the strategic consequences of Japan’s changing defense policy and its implications for national security, and
  4. develops game theoretic models for a new nuclear strategy.
 
-Professor Kurizaki is the winner of the Carl Beck Award, given by the International Studies Association in 2005, the Dina Zinnes Award, given by the Scientific Study of International Processes (SSIP) Section of the International Studies Association in 2006, the Miyake Ichiro Award in 2008, Waseda Teaching Award in 2014, and e-Teaching Award at Waseda University in 2017. His courses explore the causes of war and peace, the history of diplomacy, and formal political theory.
+Professor Kurizaki and his research team won the Conference Awards in two consequtive years in 2021 and 2022, given by the Japanese Society for Artificial Intelligence, for their research on the model and algorithm (called ``NPI'' for Network Power Index) to analyze the global landscape of the corporate ownership and control.  He is also the winner of the Carl Beck Award, given by the International Studies Association in 2005, the Dina Zinnes Award, given by the Scientific Study of International Processes (SSIP) Section of the International Studies Association in 2006, the Miyake Ichiro Award in 2008, Waseda Teaching Award in 2014, and e-Teaching Award at Waseda University in 2017. His courses explore the causes of war and peace, the history of diplomacy, and formal political theory.
 
+He serves as a member on the advisory committee for the defense minister of the Japanese government, as a nonresident scholar at the Ministry of Finance, Japan, and as visiting associate professor at the National Institute for Informatics, Tokyo, Japan.
 - [CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0)
 - [Research](./research.html)
 - [Teaching](./teaching.html)
