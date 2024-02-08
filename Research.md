@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Researches
+## Research
+## Published Papers
 
 
 - Mizuno, T., Doi, S．and Kurizaki, S. (2023). [The flow of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0290229). \
