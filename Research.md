@@ -30,11 +30,11 @@ layout: default
 - Kurizaki, S., & Whang, T. (2011). [Inferring Secret Diplomacy](https://scholar.google.com/scholar?oi=bibs&cluster=6305294747929944017&btnI=1&hl=ja).\
   Technical report Version 1.1, Working Paper. Texas: Texas AM University.
 - Kurizaki, S. (2011). [Diplomacy, Precrisis Communication, and War](https://www.f.waseda.jp/kurizaki/dpw.slide.s.pdf).
-- Kurizaki, S. (2007). [Efficient Secrecy: Public versus Private Threats in Crisis Diplomacy](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/efficient-secrecy-public-versus-private-threats-in-crisis-diplomacy/B1150C7FD2400BE8E7F60F8C2D4141D7).\
+- Kurizaki, S. (2007). [Efficient Secrecy: Public versus Private Threats in Crisis Diplomacy](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/efficient-secrecy-public-versus-private-threats-in-crisis-diplomacy/B1150C7FD2400BE8E7F60F8C2D4141D7).
   _American Political Science Review_, _101_(3), 543–558. doi:10.1017/S0003055407070396
-- Kurizaki, S. (2007). The logic of diplomacy in international disputes.\
+- Kurizaki, S. (2007). The logic of diplomacy in international disputes.
   ProQuest.
-- Kurizaki, S. (2004). [Dyadic effects of democratization on international disputes](https://doi.org/10.1093/irap/4.1.1).\
+- Kurizaki, S. (2004). [Dyadic effects of democratization on international disputes](https://doi.org/10.1093/irap/4.1.1). 
   _International Relations of the Asia-Pacific, 4_(1), 1–33.
 
 
