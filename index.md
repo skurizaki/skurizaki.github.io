@@ -14,3 +14,6 @@ Professor Kurizaki and his research team won the Conference Awards in two conseq
 
 He serves on the advisory committee for the defense minister of the Japanese government, as a nonresident scholar at the Ministry of Finance, Japan, and as visiting associate professor at the National Institute for Informatics, Tokyo, Japan.  Professor Kurizaki is also an Editor-in-Chief for [Japanese Journal of Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science).
 
+
+
+[.](./project.html)
