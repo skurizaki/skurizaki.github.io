@@ -36,6 +36,7 @@ layout: default
 
 # Beneficial (ultimate) Owners
   - difference in definitions between the US and Japan
+  - Look into Takahashi Luna's work
 
 # NPI
 ## The Power of Corporate Control in the Ownership Network Around World
