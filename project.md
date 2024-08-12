@@ -8,6 +8,7 @@ layout: default
   - [Leadership Targeting]()<br>
   - [Preemption and Deterrence]()<br>
 - [NPI]()<br>
+  - [NPI data introducing article]()<br>
 - [Element]()<br>
 - [Beneficial (ultimate) owners]()<br>
   - [difference in definitions between the US and Japan]()<br>
