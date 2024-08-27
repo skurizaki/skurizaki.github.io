@@ -50,7 +50,8 @@ Norges Bank has adopted ESG strategy in managing its equity investing assets. Th
   - ICAN - Koga
     -  Reassessing Divestment Strategy of ICAN: ICAN (International Campaign to Abolish Nuclear Weapons) runs publicity campaign to call for divesting from the corporate entities responsible for producing nuclear weapons.  Some major financial institutions have divested their equity stakes in reponse.  The effect of divestment strategy, however, is unclear.  The nuclear weapons producers appear to have not suffered from ICAN's effort: their stock prices have not dropped significantly; their revenues have not altered; the nuclear-armed states have not altered their acquisition decisions.  This study further suggests that the financial institutions that ICAN has reported have divested from nuclear waepons producers still maintain their equity stakes in the target companies.  The financial isntitutions may have sold their ``direct'' ownership in the target companies, they still maintain ownership and in some case substantive managerial control in the target companies through indirect ownership.  
 
-
+  - From (cytotoxic) chemotherapy to (molecularly) targeted therapy
+    
 # Diplomacy data project
 - Nikkei Newspaper
   - Patent transfer
