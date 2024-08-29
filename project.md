@@ -28,6 +28,8 @@ layout: default
 ## Non-First Use Policy and Extended Deterrence
 ## Leadership Targeting
 ## Preemption in Conventional Deterrence
+- Why Deterrence is Difficult with Preemption
+  - Why Preemption Undermines Deterrence
 
 # Cambridge Element
   - Proposal
