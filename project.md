@@ -19,6 +19,7 @@ layout: default
 - [Nikkei Newspaper]() 
   - [Patent transfer]() 
   - [Activists]() 
+- [Textbook on Formal Political Theory]() 
 
 # Nuclear Deterrence
 ## Tactical Nuclear Weapons and Deterrence
@@ -62,6 +63,21 @@ Norges Bank has adopted ESG strategy in managing its equity investing assets. Th
 ## [Diplomatic Representation Around the World] (./drd.html) 
 
 
+
+
+# Textbook on Formal Political Theory
+- 9月3日ミーティング
+  - 栗崎の宿題
+    - 序章：現行の原稿は網羅的ではないため、書き下す。
+    - ７章の冒頭で制度論（ルールとしての制度と均衡としての制度の双方）に関する導入・総論（メモがある）
+    - ９章のエージェンシー問題について、その冒頭を講義メモをもとに書き加える
+    - 10章の空間モデル：現在は政策距離と選好の関係に関する関数系のアイディアとしての空間モデルが用いられているのみであるので、これに勝利集合をベースとした交渉モデルとしての空間モデルを書き加える
+  - 稲田の宿題
+    - 栗崎が担当した2024年ど春学期における履修者からのコメント・質問をまとめる
+    - 制度選択とコミットメントの部分を書き足す（Public Choice論文をベースに）。これをコミットメントの章に加えるのか、制度に加えるのかは今後検討。
+  - その他の決定事項
+    - 投票モデル、閾値モデル、選択バイアスは含めない。全部で10章
+    - 次回のミーティングは2025年1月を予定
 
 
 
