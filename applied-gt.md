@@ -2,7 +2,7 @@
 [/ Homepage](https://skurizaki.github.io/) [/ 日本語ページ](https://skurizaki.github.io/jpn/)
 
 ## Applied Game Theory for Political Scientists / ゲーム理論による政治分析 POLX301L（数理分析I POLX601L)
-- Overview　（Spring 2025)
+- <b>Overview</b>　（Spring 2025)<br>
 This course is "Applied Game Theory for Political Scientists" for the advanced level undergraduate students as well as graduate students.  In it, the students will learn how to develop a game-theoretic model to describe and analyze the strategic interactions observed in politics.  This year, we will primarily focus on the formal models of crisis bargaining and deterrence for the analysis of the causes of war and conditions for peace, mechanisms of deterrence, the escalation dynamics and risks associated with various deterrence strategies among other issues.  In addition, the students will develop and analyze their original formal, game theoretic models on any topic relevant to political science.
 このコースは政治分析のための応用ゲーム理論の授業です。ゲーム理論を用いて政治において観察される戦略的相互作用を記述し分析する技術を学びます。今年は国際紛争と抑止に関する様々な数理モデルを取り上げ、戦争の原因と平和の条件、抑止のメカニズム、抑止戦略ごとのエスカレーション動態とリスクなどを分析します。さらに、受講者は政治学に係るオリジナルのモデルを作成します。
 
