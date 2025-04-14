@@ -2,12 +2,12 @@
 [/ Homepage](https://skurizaki.github.io/) [/ 日本語ページ](https://skurizaki.github.io/jpn/)
 
 ## Applied Game Theory for Political Scientists / ゲーム理論による政治分析 POLX301L（数理分析I POLX601L)
-- <b>Overview</b>　（Spring 2025）<br>
+- Overview　（Spring 2025)
 This course is "Applied Game Theory for Political Scientists" for the advanced level undergraduate students as well as graduate students.  In it, the students will learn how to develop a game-theoretic model to describe and analyze the strategic interactions observed in politics.  This year, we will primarily focus on the formal models of crisis bargaining and deterrence for the analysis of the causes of war and conditions for peace, mechanisms of deterrence, the escalation dynamics and risks associated with various deterrence strategies among other issues.  In addition, the students will develop and analyze their original formal, game theoretic models on any topic relevant to political science.
 このコースは政治分析のための応用ゲーム理論の授業です。ゲーム理論を用いて政治において観察される戦略的相互作用を記述し分析する技術を学びます。今年は国際紛争と抑止に関する様々な数理モデルを取り上げ、戦争の原因と平和の条件、抑止のメカニズム、抑止戦略ごとのエスカレーション動態とリスクなどを分析します。さらに、受講者は政治学に係るオリジナルのモデルを作成します。
 
 
-- <b>授業運用とその目的について</b>　（2023年秋学期）<br>
+- <b>授業運用とその目的について</b>　<br>
 本研究科では本講義「国際政治」と多湖淳教授が担当する「国際政治学」の二つが提供されることから以下のような役割分担をします。すなわち、本講義「国際政治」では政策課題にシフトを置く内容である一方で、多湖教授が担当する「国際政治学」では学術研究のコアを理論・実証研究ともに深掘りすることに主眼に置きます。なかでも、本講義の目的は学術研究と政策課題を往復することです。手元の政策問題をどのように学術研究として解き起こすことができるのか、政策課題に有益な知見を与えるストックを既存の学術研究は持っているのか、そのギャップはどこにあるのか、あるいは政策課題はどのような有益な研究課題を学術研究に与え理論的あるいは実証的な突破口を示唆するのかなどを検討します。その為に、履修者には個々の安全保障上の政策問題を理解することを第一義的な目標として頂きますが、それと同等に政策上の課題と理論・実証・歴史研究の関係性を理解することも本講義を通した学習目標とすることを強く求めます。政策実務者が取り組む課題に対応する理論・実証・歴史研究の射程やその限界を明らかとし、そこにギャップがあれば、政策立案実施に資する理論・実証・歴史研究課題を同定することを目指します。学術の観点に立てば、国際政治学におけるこれまでの優れた研究は政策問題を理解し政策立案に資することを動機とするものが多くありますし、国際政治学研究コミュニティが取り上げる研究主題（例えば覇権安定論、核抑止、民主的平和、危機外交の国内政治影響、内戦、テロ、第三者介入、PKO、核不拡散など）は全てその時々の政策課題に応える社会要請の中で創発し発展してきました。他方で、政策立案の観点に立てば、昨今ではEBPM機運の高まりがある一方で、歴史の流れを決定づけるに至った外交政策や国際体制の成功事例の背後には研究者コミュニティと政策プランナーの強固な連携があります。イラク戦争時の対テロ対策と治安回復（ペトレイアス将軍）、核抑止態勢の確立とその維持（ランド研究所に集結した研究者と当局周辺の戦略プランナー）、国際安全保障政策としての民主化支援（クリントン政権時の転換）などが安全保障分野では挙げられます。受講者は国際政治に限らずとも、さまざまな領域で今後研究者としてあるいは各セクターの実務者としてEBPMや研究開発との連携を図る役割を担った時のために基本動作を会得することを目指します。<br><br>具体的な作業工程は以下の通りです。１）各政策案件の整理と課題の同定から着手し、２）対応する既存の理論ないし実証研究を特定し、３）理論・実証研究から得られる知見の妥当性を検証し、４）理論・実証研究から得られる含意および予測と政策含意を検討するなかで、５）理論・実証研究に限界がある場合は、それに応える研究（開発）課題の策定などを議論します。担当教員である栗崎は理論研究の専門家であるため、政策実務については可能な限り政策担当者や関連実務家をゲストスピーカーとして招聘します。
 
 - <b>トピックとスケジュール</b>　（2023年秋学期）<br>
