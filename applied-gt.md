@@ -8,8 +8,8 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
 
 
 - <b>Textbooks</b>　<br>
-  - William Spaniel. 2023. Formal Models of Crisis Bargaining: Applications in the Politics of Conflict. Cambridge University Press.
-  - Branislav Slantchev. 2011. Military Threats: The Costs of Coercion and the Price of Peace. Cambridge University Press.
+  - William Spaniel. 2023. <i>Formal Models of Crisis Bargaining: Applications in the Politics of Conflict</i>. Cambridge University Press.
+  - Branislav Slantchev. 2011. <i>Military Threats: The Costs of Coercion and the Price of Peace</i>. Cambridge University Press.
 
 - <b>Topics and Schedule</b>　<br>
   <b>Week 1 (April 14)</b> <br>
@@ -21,14 +21,10 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
    - Robert Gibbons, <i>Game Theory for Applied Economists</i>, Princeton University Press, pp. 88-99, Section 2.3.B “Theory: Infinitely Repeated Games” (If you are new to game theory, please skim Section 2.3 (pp. 82 – 88))<br>
 
   <b>Week 3  (April 28)</b> <br>　Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))<br>
-  <b>Week 4  (May 12)</b> <br>　Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))<br>
-  <b>Week 5  (November 6)</b> <br>　理論: 宇宙空間の戦略的利用の歴史的変遷、衛星の戦術的利用、衛星攻撃兵器とスペース・デブリ、宇宙空間における抑止の特性、防勢的宇宙戦略（米国）、中国における情報優位性と智能化戦争、機能保証<br>
-  <b>Week 6 (November 13)</b> <br>　実務：ゲストスピーカー、仁科有美子氏（民間企業・元防衛省）参考：「宇宙安全保障構想」（宇宙開発戦略本部）<br>
-  <b>Week 7 (November 20)</b> <br>　理論：古典的自由主義が描く経済的相互依存、グローバル化の元での現実主義が見る経済的相互依存とその戦略的利用 (Weaponized Interdependence) <br>
-  <b>Week 8 (November 27)</b> <br>　理論: 自由貿易と安全保障貿易管理の相剋、輸出入管理とサプライチェーン管理、重要物資の安定的供給とDe-Risking / Decoupling<br>
-  <b>Week 9 (December 4)</b> <br>　 実務：ゲストスピーカー、神園仁志氏（在ウィーン国際機関日本政府代表部）<br>
-  <b>Week 10 (December 11)</b> <br>　理論: 選挙介入・妨害、情報安全保障、偽情報対策と民主主義への脅威<br>
-  <b>Week 11 (December 18)</b> <br>　実務：ゲストスピーカー、東桂太氏（内閣官房内閣官房副長官補（事態対処・危機管理担当）付）<br>
-  <b>Week 12 (December 25)</b> <br>
-  <b>Week 13 (January 15)</b> <br>　理論：核抑止、核不拡散体制、核軍縮、戦略核・戦術核、標的政策（対価値・対戦力）<br>
-  <b>Week 14 (January 22)</b> <br>　実務：ゲストスピーカー、西澤真理子氏（広島県平和推進プロジェクトチーム）
+  - Spaniel, <i>Formal Models of Crisis Bargaining</i>, chapter 3<br>
+
+  <b>Week 4  (May 12)</b> <br>　Power and commitment problems in crisis bargaining <br>
+  - Slantchev, <i>Military Threats</i>, Sections 2.1 and 2.2.<br>
+  
+  <b>Week 5  (May 19)</b> <br>　Signaling in crisis bargaining <br>
+  <b>Week 6  (May 26)</b> <br>　Commitment v. signaling in crisis bargaining <br>
