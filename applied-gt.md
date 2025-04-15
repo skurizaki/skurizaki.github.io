@@ -17,13 +17,13 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
 
   <b>Week 2  (April 21)</b> <br>
    Repeated Games (Lecture) Part I <br>
-  [Lecture Slides](https://www.dropbox.com/scl/fi/682x44fjiycclmvm6c3ky/gtu.l5slides.pdf?rlkey=5rizahtvgsolk8rd1a1jeb8co&dl=0)<br>
+  [Lecture Slides](https://www.dropbox.com/scl/fi/682x44fjiycclmvm6c3ky/gtu.l5slides.pdf?rlkey=5rizahtvgsolk8rd1a1jeb8co&dl=0)
    - Robert Gibbons, <i>Game Theory for Applied Economists</i>, Princeton University Press, pp. 88-99, Section 2.3.B “Theory: Infinitely Repeated Games” (If you are new to game theory, please skim Section 2.3 (pp. 82 – 88))<br>
 
-  <b>Week 3  (April 28)</b> <br>　Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))<br>
+  <b>Week 3  (April 28)</b> <br>　Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))
   - Spaniel, <i>Formal Models of Crisis Bargaining</i>, chapter 3<br>
 
-  <b>Week 4  (May 12)</b> <br>　Power and commitment problems in crisis bargaining <br>
+  <b>Week 4  (May 12)</b> <br>　Power and commitment problems in crisis bargaining
   - Slantchev, <i>Military Threats</i>, Sections 2.1 and 2.2.<br>
   
   <b>Week 5  (May 19)</b> <br>　Signaling in crisis bargaining <br>
