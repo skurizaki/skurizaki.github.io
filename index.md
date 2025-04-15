@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[/ CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) [/ Research](http://www.f.waseda.jp/kurizaki/research.html) [/ Teaching](./teaching.html) [/ Datasets](http://www.f.waseda.jp/kurizaki/data.html) [/ Japanese (日本語)](https://skurizaki.github.io/jpn/)
+[/ CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) [/ Research](http://www.f.waseda.jp/kurizaki/research.html) [/ Teaching](./teaching.md) [/ Datasets](http://www.f.waseda.jp/kurizaki/data.html) [/ Japanese (日本語)](https://skurizaki.github.io/jpn/)
 
 **Shuhei Kurizaki** (PhD, UCLA) is an associate professor in the School of Political Science and Economics at Waseda University. Before joining the faculty at Waseda in 2013, he was a pre-doctoral fellow at Harvard University’s Olin Institute for Strategic Studies (2005-2006) and assistant professor in the department of political science at Texas A&M University (2006-2013). His work has appeared in <i>American Political Science Review</i> and <i>International Organization</i> among other outlets. His current research
  1. develops and tests formal models to explain how and when diplomacy works in international conflict,
