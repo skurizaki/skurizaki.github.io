@@ -15,7 +15,7 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   <b>Week 1 (April 14)</b> <br>
   　Overview
 
-  <b>Week 2  (October 16)</b> <br>　理論：第二次世界大戦後の戦後処理・国際秩序構想のもとでの安全保障体制<br>
+  <b>Week 2  (April 21)</b> <br>　Repeated Games (Lecture) Part I <br> [Lecture slides] ([http://www.f.waseda.jp/kurizaki/research.html](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))
   <b>Week 3 (October 23)</b> <br>　理論：ミサイル防衛、反撃・敵基地攻撃能力、抑止、新領域<br>
   <b>Week 4 (October 30)</b> <br>　実務：ゲストスピーカー、佐藤太郎氏（民間、元内閣府・防衛省）<br>
   <b>Week 5  (November 6)</b> <br>　理論: 宇宙空間の戦略的利用の歴史的変遷、衛星の戦術的利用、衛星攻撃兵器とスペース・デブリ、宇宙空間における抑止の特性、防勢的宇宙戦略（米国）、中国における情報優位性と智能化戦争、機能保証<br>
