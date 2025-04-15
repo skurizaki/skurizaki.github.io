@@ -16,7 +16,7 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   　Overview
 
   <b>Week 2  (April 21)</b> <br>
-  The inefficiency puzzle of war and rationalist expalanations for war: a bargaining approach
+  The inefficiency puzzle of war and rationalist expalanations for war: a bargaining approach<br>
   [Lecture Slides](https://www.dropbox.com/scl/fi/ixjtu862p2u1hef1oyo6p/ir.u.05-puzzle-of-war.pdf?rlkey=th7k7lt90jd378pensws23k98&dl=0)
    - James D. Fearon, "Rationalist Explanations for War.'' <i>International Organization</i><br>
   
