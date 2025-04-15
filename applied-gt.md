@@ -15,9 +15,13 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   <b>Week 1 (April 14)</b> <br>
   　Overview
 
-  <b>Week 2  (April 21)</b> <br>　Repeated Games (Lecture) Part I <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/682x44fjiycclmvm6c3ky/gtu.l5slides.pdf?rlkey=5rizahtvgsolk8rd1a1jeb8co&dl=0))<br>
+  <b>Week 2  (April 21)</b> <br>
+   Repeated Games (Lecture) Part I <br>
+  [Lecture Slides](https://www.dropbox.com/scl/fi/682x44fjiycclmvm6c3ky/gtu.l5slides.pdf?rlkey=5rizahtvgsolk8rd1a1jeb8co&dl=0)<br>
+   - Robert Gibbons, <i>Game Theory for Applied Economists</i>, Princeton University Press, pp. 88-99, Section 2.3.B “Theory: Infinitely Repeated Games” (If you are new to game theory, please skim Section 2.3 (pp. 82 – 88))<br>
+
   <b>Week 3  (April 28)</b> <br>　Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))<br>
-  <b>Week 4 (October 30)</b> <br>　実務：ゲストスピーカー、佐藤太郎氏（民間、元内閣府・防衛省）<br>
+  <b>Week 4  (May 12)</b> <br>　Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))<br>
   <b>Week 5  (November 6)</b> <br>　理論: 宇宙空間の戦略的利用の歴史的変遷、衛星の戦術的利用、衛星攻撃兵器とスペース・デブリ、宇宙空間における抑止の特性、防勢的宇宙戦略（米国）、中国における情報優位性と智能化戦争、機能保証<br>
   <b>Week 6 (November 13)</b> <br>　実務：ゲストスピーカー、仁科有美子氏（民間企業・元防衛省）参考：「宇宙安全保障構想」（宇宙開発戦略本部）<br>
   <b>Week 7 (November 20)</b> <br>　理論：古典的自由主義が描く経済的相互依存、グローバル化の元での現実主義が見る経済的相互依存とその戦略的利用 (Weaponized Interdependence) <br>
