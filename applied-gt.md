@@ -51,3 +51,19 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   <b>Week 9  (June 16)</b> <br>
   The art of barganining in coercive diplomacy II <br>
   - James D. Fearon, "Rationalist Explanations for War." <i>International Organization</i>, pp.<br>
+
+  <b>Week 10  (June 23)</b> <br>
+  Nuclear Deterrence models I<br>
+  - TBA, pp.<br>
+
+  <b>Week 11  (June 30)</b> <br>
+  Nuclear Deterrence models II<br>
+  - TBA, pp.<br>
+
+ <b>Week 12  (July 7)</b> <br>
+  Alliance models I<br>
+  - TBA, pp.<br>
+
+ <b>Week 13  (July 14)</b> <br>
+  Alliance models II<br>
+  - TBA, pp.<br>
