@@ -39,3 +39,15 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   <b>Week 6  (May 26)</b> <br>
   Commitment v. signaling in crisis bargaining <br>
   - Slantchev, <i>Military Threats</i>, Section 2.3.<br>
+
+  <b>Week 7  (June 2)</b> <br>
+  The art of barganining in coercive diplomacy I <br>
+  - Slantchev, <i>Military Threats</i>, Sections 3.1 amd 3.2.<br>
+
+  <b>Week 8  (June 9)</b> <br>
+  The art of barganining in coercive diplomacy II <br>
+  - Slantchev, <i>Military Threats</i>, Sections 3.3 amd 3.4.<br>
+
+  <b>Week 9  (June 16)</b> <br>
+  The art of barganining in coercive diplomacy II <br>
+  - James D. Fearon, "Rationalist Explanations for War." <i>International Organization</i>, pp.<br>
