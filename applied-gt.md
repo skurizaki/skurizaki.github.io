@@ -1,5 +1,5 @@
 
-[/ Homepage](https://skurizaki.github.io/) [/ 日本語ページ](https://skurizaki.github.io/jpn/)
+[/ Homepage](https://skurizaki.github.io/) [/ Teaching](./teaching.md) [/ 日本語ページ](https://skurizaki.github.io/jpn/)
 
 ## Applied Game Theory for Political Scientists / ゲーム理論による政治分析 POLX301L（数理分析I POLX601L)
 - <b>Overview</b>　（Spring 2025)<br>
