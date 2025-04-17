@@ -19,7 +19,8 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   The inefficiency puzzle of war and rationalist expalanations for war: a bargaining approach<br>
   [Lecture Slides](https://www.dropbox.com/scl/fi/ixjtu862p2u1hef1oyo6p/ir.u.05-puzzle-of-war.pdf?rlkey=th7k7lt90jd378pensws23k98&dl=0)
    - James D. Fearon, "Rationalist Explanations for War.'' <i>International Organization</i><br>
-  
+   - Spaniel, <i>Formal Models of Crisis Bargaining</i>, chapter 2<br>
+
    Repeated Games (Lecture) Part I <br>
   [Lecture Slides](https://www.dropbox.com/scl/fi/682x44fjiycclmvm6c3ky/gtu.l5slides.pdf?rlkey=5rizahtvgsolk8rd1a1jeb8co&dl=0)
    - Robert Gibbons, <i>Game Theory for Applied Economists</i>, Princeton University Press, pp. 88-99, Section 2.3.B “Theory: Infinitely Repeated Games” (If you are new to game theory, please skim Section 2.3 (pp. 82 – 88))<br>
