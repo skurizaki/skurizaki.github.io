@@ -8,7 +8,7 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
 
 - <b>Class meetings:</b><br>
   - Monday, 2nd period (10:40-12:20pm)
-  - Bldg 3, Room 802 (might be changed to 909) <- will keep you updated
+  - Bldg 3, Room 909
 
 - <b>Textbooks</b>　<br>
   - William Spaniel. 2023. <i>Formal Models of Crisis Bargaining: Applications in the Politics of Conflict</i>. Cambridge University Press.
