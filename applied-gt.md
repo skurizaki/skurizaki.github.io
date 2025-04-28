@@ -12,7 +12,7 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
 
 - <b>Textbooks</b>　<br>
   - William Spaniel. 2023. <i>Formal Models of Crisis Bargaining: Applications in the Politics of Conflict</i>. Cambridge University Press.
-  - Branislav Slantchev. 2011. <i>Military Threats: The Costs of Coercion and the Price of Peace</i>. Cambridge University Press.
+  - Branislav Slantchev. 2011. <i>Military Threats: The Costs of Coercion and the Price of Peace</i>. Cambridge University Press. [PDF](https://www.dropbox.com/scl/fi/usr11e56lwjxxnwnp5vnz/slantchev-military-threats.pdf?rlkey=kw831asl9cm8pc46emeaoz9is&dl=0)
 
 - <b>Topics and Schedule</b>　<br>
   <b>Week 1 (April 14)</b> <br>
