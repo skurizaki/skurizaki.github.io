@@ -26,11 +26,11 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
 
    Repeated Games (Lecture) Part I <br>
   [Lecture Slides](https://www.dropbox.com/scl/fi/682x44fjiycclmvm6c3ky/gtu.l5slides.pdf?rlkey=5rizahtvgsolk8rd1a1jeb8co&dl=0)
-   - Robert Gibbons, <i>Game Theory for Applied Economists</i>, Princeton University Press, pp. 88-99, Section 2.3.B “Theory: Infinitely Repeated Games” (If you are new to game theory, please skim Section 2.3 (pp. 82 – 88))<br>
+   - Robert Gibbons, <i>Game Theory for Applied Economists</i>, Princeton University Press, pp. 88-99, Section 2.3.B “Theory: Infinitely Repeated Games” (If you are new to game theory, please skim Section 2.3 (pp. 82 – 88)) [PDF](https://www.dropbox.com/scl/fi/whrhb23i1ew8dofuah3za/Gibbons_GameTheoryfor-AppliedEconomists.pdf?rlkey=4q4kdg91g5am5d5b0enamloyz&dl=0)<br>
 
   <b>Week 3  (April 28)</b> <br>
   Repeated Games (Lecture) Part II <br> ([Lecture Slides](https://www.dropbox.com/scl/fi/ephqieoelbr8cy5i5e5f9/fmps9slides.pdf?rlkey=rf7rxdca282tmc7b33jq3yvby&dl=0))
-  - Paul Milgrom, Douglass North, and Barry Weingast, "The Role of Institutions in the Revival of Trade: The Law Merchant, Private Judges, and the Champagne Fairs", <i>Economics and Politics</i>, 2 (1990).<br>
+  - Paul Milgrom, Douglass North, and Barry Weingast, "The Role of Institutions in the Revival of Trade: The Law Merchant, Private Judges, and the Champagne Fairs", <i>Economics and Politics</i>, 2 (1990).[PDF](https://www.dropbox.com/scl/fi/sjqiy4fml7wkup8e411k4/Milgrom-North-Weingast90.pdf?rlkey=8k7hkxcjauc5pptctvsn1lyue&dl=0)<br>
 
   <b>Week 4  (May 12)</b> <br>
   Power and commitment problems in crisis bargaining
