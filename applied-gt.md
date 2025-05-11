@@ -33,9 +33,10 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   - Paul Milgrom, Douglass North, and Barry Weingast, "The Role of Institutions in the Revival of Trade: The Law Merchant, Private Judges, and the Champagne Fairs", <i>Economics and Politics</i>, 2 (1990).[PDF](https://www.dropbox.com/scl/fi/sjqiy4fml7wkup8e411k4/Milgrom-North-Weingast90.pdf?rlkey=8k7hkxcjauc5pptctvsn1lyue&dl=0)<br>
 
   <b>Week 4  (May 12)</b> <br>
-  Power and commitment problems in crisis bargaining
+  Power and commitment problems in crisis bargaining<br>
+   [Additional Slides](https://www.dropbox.com/scl/fi/9bocjahjsauks22par6xi/fmps.25.w4-Commitment.pdf?rlkey=1qipbh02j4bpvbz3phxzgyptz&dl=0)
   - Spaniel, <i>Formal Models of Crisis Bargaining</i>, chapter 3<br>
-  
+ 
   <b>Week 5  (May 19)</b> <br>
   Signaling in crisis bargaining <br>
   - Slantchev, <i>Military Threats</i>, Sections 2.1 and 2.2.<br>
