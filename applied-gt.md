@@ -36,43 +36,49 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   Power and commitment problems in crisis bargaining<br>
    [Additional Slides](https://www.dropbox.com/scl/fi/9bocjahjsauks22par6xi/fmps.25.w4-Commitment.pdf?rlkey=1qipbh02j4bpvbz3phxzgyptz&dl=0)
   - Spaniel, <i>Formal Models of Crisis Bargaining</i>, chapter 3<br>
+  - Alyssa
  
   <b>Week 5  (May 19)</b> <br>
   Signaling in crisis bargaining <br>
-  - Slantchev, <i>Military Threats</i>, Sections 2.1 and 2.2.<br>
+  - Slantchev, <i>Military Threats</i>, Section 2.1.<br>
   - Yiheng
 
   <b>Week 6  (May 26)</b> <br>
+  Signaling in crisis bargaining <br>
+  - Slantchev, <i>Military Threats</i>, Section 2.2.<br>
+  - Yiheng
+
+  <b>Week 7  (June 2)</b> <br>
   Commitment v. signaling in crisis bargaining <br>
   - Slantchev, <i>Military Threats</i>, Section 2.3.<br>
   - Hayashi Miki
 
-  <b>Week 7  (June 2)</b> <br>
+  <b>Week 8  (June 9)</b> <br>
   The art of barganining in coercive diplomacy I <br>
-  - Slantchev, <i>Military Threats</i>, Sections 3.1 amd 3.2.<br>
+  - Slantchev, <i>Military Threats</i>, Section 3.1.<br>
   - Who was it?
 
-  <b>Week 8  (June 9)</b> <br>
-  The art of barganining in coercive diplomacy II <br>
-  - Slantchev, <i>Military Threats</i>, Sections 3.3 amd 3.4.<br>
-  - ?
-
   <b>Week 9  (June 16)</b> <br>
-  The art of barganining in coercive diplomacy II <br>
-  - James D. Fearon, "Rationalist Explanations for War." <i>International Organization</i>, pp.<br>
+  The art of barganining in coercive diplomacy I <br>
+  - Slantchev, <i>Military Threats</i>, Section 3.2.<br>
+  - Who was it?
 
   <b>Week 10  (June 23)</b> <br>
-  Nuclear Deterrence models I<br>
-  - TBA, pp.<br>
+  The art of barganining in coercive diplomacy II <br>
+  - Slantchev, <i>Military Threats</i>, Section 3.3 <br>
+  - ?
 
   <b>Week 11  (June 30)</b> <br>
-  Nuclear Deterrence models II<br>
-  - TBA, pp.<br>
+  The art of barganining in coercive diplomacy II <br>
+  - Slantchev, <i>Military Threats</i>, Section 3.4.<br>
+  - ?
 
  <b>Week 12  (July 7)</b> <br>
- Alliance models I<br>
-  - TBA, pp.<br>
+  Nuclear Deterrence model <br>
+  - Robert Powell. 2015. Nuclear Brinkmanship, Limited War, <i>International Organization</i> pp.<br>
+  - Ihara
 
  <b>Week 13  (July 14)</b> <br>
- Alliance models II<br>
+ Alliance models <br>
   - TBA, pp.<br>
+  - Hayashi
