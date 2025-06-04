@@ -2,9 +2,7 @@
 layout: default
 ---
 
-[/ CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) [/ Research](http://www.f.waseda.jp/kurizaki/research.html) [/ Teaching](./teaching.md) [/ Datasets](http://www.f.waseda.jp/kurizaki/data.html) [/ Japanese (日本語)](https://skurizaki.github.io/jpn/)
-
-[home](./home.html)
+[/ CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) [/ Research](http://www.f.waseda.jp/kurizaki/research.html) [/ Teaching](./teaching.md) [/ Datasets](http://www.f.waseda.jp/kurizaki/data.html) [/ Japanese (日本語)](https://skurizaki.github.io/jpn/) [/home](./home.html)
 
 ## Teaching
 - Undergraduate
