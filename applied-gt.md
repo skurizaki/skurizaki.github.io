@@ -55,12 +55,12 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
 
   <b>Week 8  (June 9)</b> <br>
   The art of barganining in coercive diplomacy I <br>
-  - Slantchev, <i>Military Threats</i>, Section 3.1.<br>
-  - Who was it?
+  - Slantchev, <i>Military Threats</i>, Section 3.1. on the three types of costs that characterize military threats from other moves in crisis bargaining <br>
+  - Tokumo
 
   <b>Week 9  (June 16)</b> <br>
   The art of barganining in coercive diplomacy I <br>
-  - Slantchev, <i>Military Threats</i>, Section 3.2.<br>
+  - Slantchev, <i>Military Threats</i>, Section 3.2. on modeling military threats and mobilization in the cotext of crisis bargianing and its concequence under complete information<br>  
   - Who was it?
 
   <b>Week 10  (June 23)</b> <br>
