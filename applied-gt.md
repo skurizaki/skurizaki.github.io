@@ -66,7 +66,7 @@ This course is "Applied Game Theory for Political Scientists" for the advanced l
   <b>Week 10  (June 23)</b> <br>
   The art of barganining in coercive diplomacy II <br>
   - Slantchev, <i>Military Threats</i>, Section 3.3 on military mobilization under incomplete information<br>
-  - ?
+  - Kaneko
 
   <b>Week 11  (June 30)</b> <br>
   The art of barganining in coercive diplomacy II <br>
