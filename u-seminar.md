@@ -103,4 +103,4 @@ Choose one scientific research paper on any topic of your choice and submit a on
 質問のある方もkurizaki@waseda.jp までメールを送ってください。
 
 ## ゼミ在籍生、卒業生、修了生
-OBOGリストと彼・彼女たちの進路や現在のポシジョンなどのリストは[教育・授業ページ](./teaching.html)の下段をご覧ください。
+OBOGリストと彼・彼女たちの進路や現在のポシジョンなどのリストは[教育・授業ページ](https://skurizaki.github.io/jpn/teaching.html) の下段をご覧ください。
