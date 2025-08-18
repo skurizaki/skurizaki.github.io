@@ -122,7 +122,7 @@ layout: default
     [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
   - <b>博士課程</b> <br>
     [淺野塁　現在：西南学院大学法学部講師](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
-    [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師] (https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
+    [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
     [田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
     仁科有美子　前職：防衛省（航空幕僚監部）、現在：NEC <br>
