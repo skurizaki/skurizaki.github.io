@@ -23,4 +23,4 @@ layout: default
   - Applied Game Theory for Political Science (Texas A&M)
 
 - Other
-  - Nuclear Deterrence Theory (Nuclear Strategies Series), Joint Staff College, Ministry of Defense, Japan
+  - Nuclear Deterrence Theory (Nuclear Strategy Series), Joint Staff College, Ministry of Defense, Japan
