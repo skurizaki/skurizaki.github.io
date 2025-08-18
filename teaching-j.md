@@ -141,6 +141,7 @@ layout: default
     Nate Biederman　前職：米海兵隊 <br>
     東田莉子　前職：学部生（エディンバラ大学） <br>
     Alyssa Maynard　前職：学部生（UCLA）<br>
+    Neriah Tan　前職：学部生（Singapore Management University）<br>
 
 ## 栗崎の指導教官
 - UCLAでの博士論文委員会 <br>
