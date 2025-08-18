@@ -98,7 +98,7 @@ layout: default
 Choose one scientific research paper on any topic of your choice and submit a one-page summary in which you discuss (i) what question/problem is addressed, (ii) the significance of the question --- why and how the author believes this question is important for our society, (iii) how the author attempts to answer the question or solve the problem set forth (e.g., the theoretical approach? Empirical approach? Or describe the research methods adopted in the paper), (iv) the findings, (v) How the findings advance our knowledge on the relevant topic,  and (vi) any flaws or limits in its research that might change the author’s conclusion. 
  
 - <b>選考基準</b><br>
-ほとんど唯一の基準は、白けた態度を持っていないこと。何か意思をもって生活していることです。個別課題に含まれる既習科目の内容や志望動機は参考程度にしか用いません。成績表は履修科目と確認を主目的に用います。成績そのもの重視しませんが、説明できるかどうかには関心を持ちます。
+ほとんど唯一の基準は、白けた態度を持っていないこと。何か意思をもって生活していることです。個別課題に含まれる既習科目の内容や志望動機は参考程度にしか用いません。成績表は履修科目と確認を主目的に用います。成績そのものはそれほど重視しませんが、説明できるかどうかには関心を持ちます。
  
 質問のある方もkurizaki@waseda.jp までメールを送ってください。
 
