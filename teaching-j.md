@@ -44,14 +44,14 @@ layout: default
     板橋飛雄馬　現在：KPMG Japan ← 伊藤忠商事 <br>
     柏木柚香　現在：[日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
     　→ (早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
-    倉嶋麻里　現在：　KPMGジャパン　←　アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
+    倉嶋麻里　現在：　KPMGジャパン　←　アイリス株式会社／ 東京大学医学系研究科公共健康医学専攻 <br>
     小久保孝咲　[現在：株式会社クロスビット Xbit 創業者・CEO](https://sogyotecho.jp/xbit-kokubo-interview/) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
     高木　要　現在：LegalOn Technologies (Data analyst) <br>
     Yana Otlan　現在：UCLA政治学部博士課程　<br> →　英国調査会社 (Templeton Research) <br>
     他3名 <br>
   - <b>2016年度卒業</b> <br>
-    関口雅啓　現在：PwCコンサルティング合同会社 <br>→　Data scientist at JMDC <br>
+    関口雅啓　現在：リクルート ←　JMDC ← PwCコンサルティング<br>
     瀧澤朋郎（公認会計士）　現在：Ernst & Young 新日本有限責任監査法人 <br>
     小島敦幹　現在：アマゾンWeb Services (AWS) Dublin <br>→ Proximus Ada as Data Scientist <br>
     徳田誠太郎　現在：東映 <br>
@@ -79,7 +79,7 @@ layout: default
     伊藤千夏　現在：株式会社システナ <br>
     久保麟太郎　現在：財務省 <br>
     　→ 英ウォーリック大学大学院<br>
-    橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science<br>
+    橋本龍太郎　現在：プルデンシャル Japan ← ミシガン大学統計学部, MS in Data Science<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2020年度卒業</b><br>
