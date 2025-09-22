@@ -83,18 +83,18 @@ layout: default
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2020年度卒業</b><br>
-    入原光輝　現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
+    入原光輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     温ビチャン　現在：野村證券 <br>
     [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
        　→ 弁護士[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
-    久保田雪華　現在： <br>
+    久保田雪華　現在： 三菱UFJ銀行<br>
     鈴木輝 　現在：Accenture (Data science consultant) <br>
-    坂東茉唯　現在：三井物産 <br>
+    坂東茉唯　現在：三井物産 （ニューヨーク支店）<br>
     平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
     中村健太郎　現在：シカゴ大学統計学部修士課程　→　[ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura)<br>
     　→ （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
-    Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
+    Luigi Ludwig　現在：シティバンク（グローバルマーケッツ） <br>
     Weiyuan Chen　現在：Accenture Japan <br>
   - <b>2021年度卒業</b> <br>
     朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
@@ -108,8 +108,8 @@ layout: default
     　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））<br>
     他3名 <br>
   - <b>2025年度卒業予定</b> <br>
-    金島匠 大学院経済学研究科（予定）<br>
-    徳永 大学院経済学研究科（予定）<br>
+    金島匠 東京大学大学院経済学研究科（予定）<br>
+    徳永 <br>
     新浜 電通 <br>
     上野貴裕 三菱重工業 <br>
     Jisu Eom ソウル国立大学大学院（予定）<br>
