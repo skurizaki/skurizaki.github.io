@@ -85,8 +85,8 @@ layout: default
   - <b>2020年度卒業</b><br>
     入原光輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     温ビチャン　現在：野村證券 <br>
-    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
-       　→ 弁護士[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
+    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　<br>
+      ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
     久保田雪華　現在： 三菱UFJ銀行<br>
     鈴木輝 　現在：Accenture (Data science consultant) <br>
