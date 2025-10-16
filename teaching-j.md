@@ -48,7 +48,7 @@ layout: default
     小久保孝咲　[現在：株式会社クロスビット Xbit 創業者・CEO](https://sogyotecho.jp/xbit-kokubo-interview/) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
     高木　要　現在：三菱UFJ信託銀行 → Hulu → LegalOn Technologies → 株式会社TrailBlazer (Data analyst) <br>
-    Yana Otlan　現在：UCLA政治学部博士課程　<br> →　英国調査会社 (Templeton Research) <br>
+    Yana Otlan　現在：UCLA政治学部博士課程 →　英国調査会社 (Templeton Research) <br>
     他3名 <br>
   - <b>2016年度卒業</b> <br>
     関口雅啓　現在：リクルート ←　JMDC ← PwCコンサルティング<br>
@@ -127,7 +127,7 @@ layout: default
   - <b>修士課程</b> <br>
     [玉水玲央　前職：学部生（早稲田）、現在：日本国際問題研究所](https://www.jiia.or.jp/staff/TamamizuLeo.php) <br>
     [武井槙人　前職：学部生（早稲田）、現在：モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
-    Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) <br>
+    Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) → 地経学研究所 / PwC Japan<br>
     時　海萌 　前職：学部生（早稲田）、現在：国内印刷会社→フリーター（IT系スタートアップ） <br>
     森田曜光　前職：学部生（学習院）、現在：アセットマネイジメントOne <br>
     菅原雄一　前職：国連PKO、現在：国際連合平和活動局（ニューヨーク本部）→国連機関駐日事務所 <br>
