@@ -64,14 +64,14 @@ layout: default
     佐々木祐輔　現在：NHK（制作） <br>
     近倫人　現在：ZSアソシエイツ<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
-    林祐志　現在：KPMG <- 起業 <- Accenture <- Bloomberg L.P. Market Data Analyst -> Data Scientist, Accenture <br>
-    　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
+    林祐志　現在：KPMG <- 起業 <- Accenture <- Bloomberg L.P. Market Data Analyst <br>
+    　（チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
     寺田篤史　現在：EYパルテノン <br>
     他3名 <br>
   - <b>2019年度卒業</b> <br>
     本山功　現在：防衛省防衛政策局 <- [防衛省防衛研究所研究員](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
     藤生梨乃　現在：日本総合研究所 <br>
-    太田奈歩　現在：[カリフォルニア大学サンディエゴ校(UCSD)政治学部博士課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
+    太田奈歩　現在：[カリフォルニア大学サンディエゴ校(UCSD)政治学部Ph.D.課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
     遠田航平　現在： <br>
     バズィレバ　バレンティーナ　Valentina Bazyleva　現在：アムステルダム大学 MS in Computer Science <br>
     望戸薫　現在：Ernst & Young Advisory, Consulting <br>
@@ -100,7 +100,7 @@ layout: default
     朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
     小磯　慎士　現在：ノースウェスタン大学経済学部Ph.D. <- [東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科4位卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/))＋ ["Media Dysfunction and Democratic Backsliding"（2021年度早稻田大學政治經濟學會優秀賞）](https://www.waseda.jp/fpse/pse/assets/uploads/2022/03/e03f565f219becf9041bfe01725f65d1.pdf))<br>
-    　    長田創太郎　現在：日本IBM（コンサルタント） <br>
+    長田創太郎　現在：日本IBM（コンサルタント） <br>
     菊地優　現在：株式会社 ツムラ <br>
     Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
     橋場芽衣　現在：フィリップ・モリス <br>
@@ -123,7 +123,7 @@ layout: default
   - <b>ポスドク</b> <br>
     [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
   - <b>博士課程</b> <br>
-    [淺野塁　現在：西南学院大学法学部講師](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
+    [淺野塁　現在：西南学院大学法学部准教授](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
     [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
     [田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
