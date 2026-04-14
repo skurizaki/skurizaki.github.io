@@ -125,7 +125,7 @@ layout: default
   - <b>博士課程</b> <br>
     [淺野塁　現在：西南学院大学法学部准教授](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
     [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
-    [田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
+    [田中（坂部）有佳子　就職：共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
     [玉水玲央　前職：学部生（早稲田）、現在：日本国際問題研究所](https://www.jiia.or.jp/staff/TamamizuLeo.php) <br>
     [武井槙人　前職：学部生（早稲田）、現在：モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
@@ -145,6 +145,9 @@ layout: default
     東田莉子　前職：学部生（エディンバラ大学） <br>
     Alyssa Maynard　前職：学部生（UCLA）<br>
     Neriah Tan　前職：学部生（Singapore Management University）<br>
+    井原千絵　前職：学部生（関西学院大学） <br>
+    Mgnus Ander　前職：学部生（xxx）<br>
+    前田莉那　前職：学部生（青山学院大学）<br>
 
 ## 栗崎の指導教官
 - UCLAでの博士論文委員会 <br>
