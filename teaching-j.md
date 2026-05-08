@@ -118,7 +118,8 @@ layout: default
     松本教聖 <br>　
     塩河優希 <br>　
     熊野悠希 <br>　
-    福元英二郎 <br>　
+    福元英二郎 <br>
+    金子幹幸 <br>
 - 大学院（指導、主査、博士課程は副査を含む）
   - <b>ポスドク</b> <br>
     [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
