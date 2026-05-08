@@ -111,13 +111,13 @@ layout: default
     上野貴裕 → 三菱重工業 <br>
     Jisu Eom → 進学（予定）<br>
   - <b>2026年度卒業予定</b> <br>
-    梶谷惟人 <br>　
-    鈴木康生 <br>　
-    Christie Wang <br>　
+    梶谷惟人 <br>
+    鈴木康生 <br>
+    Christie Wang <br>
   - <b>2027年度卒業予定</b> <br>
-    松本教聖 <br>　
-    塩河優希 <br>　
-    熊野悠希 <br>　
+    松本教聖 <br>
+    塩河優希 <br>
+    熊野悠希 <br>
     福元英二郎 <br>
     金子幹幸 <br>
 - 大学院（指導、主査、博士課程は副査を含む）
