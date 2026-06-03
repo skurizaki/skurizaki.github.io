@@ -83,7 +83,7 @@ layout: default
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2020年度卒業</b><br>
-    入原光輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
+    入原充輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     温ビチャン　現在：野村證券 <br>
     [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　<br>
       ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
