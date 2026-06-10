@@ -128,7 +128,7 @@ layout: default
     [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
     [田中（坂部）有佳子　就職：共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
-    [玉水玲央　前職：学部生（早稲田）、現在：日本国際問題研究所](https://www.jiia.or.jp/staff/TamamizuLeo.php) 　→ 大阪経済法科大学准教授<br>
+    玉水玲央　早大卒業→早大修士→ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
     [武井槙人　前職：学部生（早稲田）、現在：モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
     Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) → 地経学研究所 / PwC Japan<br>
     時　海萌 　前職：学部生（早稲田）、現在：国内印刷会社→フリーター（IT系スタートアップ） <br>
