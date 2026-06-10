@@ -128,12 +128,12 @@ layout: default
     [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
     [田中（坂部）有佳子　就職：共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
-    [玉水玲央　前職：学部生（早稲田）、現在：日本国際問題研究所](https://www.jiia.or.jp/staff/TamamizuLeo.php) <br>
+    [玉水玲央　前職：学部生（早稲田）、現在：日本国際問題研究所](https://www.jiia.or.jp/staff/TamamizuLeo.php) 　→ 大阪経済法科大学准教授<br>
     [武井槙人　前職：学部生（早稲田）、現在：モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
     Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) → 地経学研究所 / PwC Japan<br>
     時　海萌 　前職：学部生（早稲田）、現在：国内印刷会社→フリーター（IT系スタートアップ） <br>
     森田曜光　前職：学部生（学習院）、現在：アセットマネイジメントOne <br>
-    菅原雄一　前職：国連PKO、現在：国際連合平和活動局（ニューヨーク本部）→国連機関駐日事務所 <br>
+    菅原雄一　前職：国連PKO、現在：国際連合平和活動局（ニューヨーク本部）→国連プロジェクトサービス機関 (UNOPS)駐日代表代行　→　国連開発計画(UNDP)中東地域事務所（ヨルダン・アンマン） <br>
     井奥崇輔　前職：東大（BA 哲学, MPP 公共政策）→ 早大政治学研究科、現在：[米ロチェスター大学Ph.D. candidate(政治学）](https://shusuke-ioku.github.io) <br>
     片山貴裕　　前職：航空自衛隊幹部学校航空研究センター、現在：航空自衛隊南西航空方面隊司令部 <br>
     Ban Ali　前職：学部生（早稲田）、現在： <br>
