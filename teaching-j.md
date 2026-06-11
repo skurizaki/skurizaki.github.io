@@ -143,7 +143,7 @@ layout: default
     - 仁科有美子　前職：防衛省（航空幕僚監部）、現在：NEC <br>
     - Lawrence McDonald-Colbert　前職：学部生（エディンバラ大学）、現在：英国国防省 <br>
     - Nate Biederman　前職：米海兵隊 <br>
-    - 東田莉子　前職：学部生（エディンバラ大学） <br>
+    - 東田莉子　前職：学部生（エディンバラ大学） → 民間企業就職<br>
     - Alyssa Maynard　前職：学部生（UCLA）<br>
     - Neriah Tan　前職：学部生（Singapore Management University）<br>
     - 井原千絵　前職：学部生（関西学院大学） <br>
@@ -152,8 +152,8 @@ layout: default
 
 ## 栗崎の指導教官
 - UCLAでの博士論文委員会 <br>
-Arthur Stein, Co-chair, Distinguished Professor of Political Science, UCLA <br>
-Kenneth Schultz, Co-chair, William Bennett Munro Professor of Political Science, Stanford University <br>
-Barry O'Neill, Professor of Political Science, UCLA <br>
-Michael Chew, Professor of Political Science, UCLA <br>
-Leeat Yariv, Uwe E. Reinhardt Professor of Economics, Princeton University <br>
+ - Arthur Stein, Co-chair, Distinguished Professor of Political Science, UCLA <br>
+ - Kenneth Schultz, Co-chair, William Bennett Munro Professor of Political Science, Stanford University <br>
+ - Barry O'Neill, Professor of Political Science, UCLA <br>
+ - Michael Chew, Professor of Political Science, UCLA <br>
+ - Leeat Yariv, Uwe E. Reinhardt Professor of Economics, Princeton University <br>
