@@ -83,72 +83,72 @@ layout: default
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2020年度卒業</b><br>
-    入原充輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
-    温ビチャン　現在：野村證券 → BlackRock<br>
-    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　<br>
+    - 入原充輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
+    - 温ビチャン　現在：野村證券 → BlackRock<br>
+    - [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　<br>
       ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
-    久保田雪華　現在： 三菱UFJ銀行<br>
-    鈴木輝 　現在：Accenture (Data science consultant) <br>
-    坂東茉唯　現在：三井物産 （ニューヨーク支店）<br>
-    平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
-    中村健太郎　現在：シカゴ大学統計学部修士課程　→　[ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura)<br>
+    - 久保田雪華　現在： 三菱UFJ銀行<br>
+    - 鈴木輝 　現在：Accenture (Data science consultant) <br>
+    - 坂東茉唯　現在：三井物産 （ニューヨーク支店）<br>
+    - 平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
+    - 中村健太郎　現在：シカゴ大学統計学部修士課程　→　[ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura)<br>
     　→ （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
-    Luigi Ludwig　現在：シティバンク（グローバルマーケッツ） <br>
-    Weiyuan Chen　現在：Accenture Japan <br>
+    - Luigi Ludwig　現在：シティバンク（グローバルマーケッツ） <br>
+    - Weiyuan Chen　現在：Accenture Japan <br>
   - <b>2021年度卒業</b> <br>
-    朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
-    小磯　慎士　現在：ノースウェスタン大学経済学部Ph.D. <- [東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
+    - 朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
+    - 小磯　慎士　現在：ノースウェスタン大学経済学部Ph.D. <- [東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科4位卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/))＋ ["Media Dysfunction and Democratic Backsliding"（2021年度早稻田大學政治經濟學會優秀賞）](https://www.waseda.jp/fpse/pse/assets/uploads/2022/03/e03f565f219becf9041bfe01725f65d1.pdf))<br>
-    長田創太郎　現在：日本IBM（コンサルタント） <br>
-    菊地優　現在：株式会社 ツムラ <br>
-    Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
-    橋場芽衣　現在：フィリップ・モリス <br>
+    - 長田創太郎　現在：日本IBM（コンサルタント） <br>
+    - 菊地優　現在：株式会社 ツムラ <br>
+    - Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
+    - 橋場芽衣　現在：フィリップ・モリス <br>
     　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））<br>
   - <b>2025年度卒業予定</b> <br>
-    金島匠見 → 東京大学大学院経済学研究科<br>
-    徳永悠真 → 株式会社 BeyondMarket 代表取締役/CEO<br>
-    上野貴裕 → 三菱重工業 <br>
-    Jisu Eom → 進学（予定）<br>
+    - 金島匠見 → 東京大学大学院経済学研究科<br>
+    - 徳永悠真 → 株式会社 BeyondMarket 代表取締役/CEO<br>
+    - 上野貴裕 → 三菱重工業 <br>
+    - Jisu Eom → 進学（予定）<br>
   - <b>2026年度卒業予定</b> <br>
-    梶谷惟人 <br>
-    鈴木康生 <br>
-    Christie Wang <br>
+    - 梶谷惟人 <br>
+    - 鈴木康生 <br>
+    - Christie Wang <br>
   - <b>2027年度卒業予定</b> <br>
-    松本教聖 <br>
-    塩河優希 <br>
-    熊野悠希 <br>
-    福元英二郎 <br>
-    金子幹幸 <br>
+    - 松本教聖 <br>
+    - 塩河優希 <br>
+    - 熊野悠希 <br>
+    - 福元英二郎 <br>
+    - 金子幹幸 <br>
 - 大学院（指導、主査、博士課程は副査を含む）
   - <b>ポスドク</b> <br>
-    [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
+    - [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
   - <b>博士課程</b> <br>
-    [淺野塁　現在：西南学院大学法学部准教授](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
-    [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
-    [田中（坂部）有佳子　就職：共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
+    - [淺野塁　現在：西南学院大学法学部准教授](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
+    - [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
+    - [田中（坂部）有佳子　就職：共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
-    玉水玲央　早大卒業→早大修士→ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
-    武井槙人　早大卒業→早大修士→北テキサス大学博士（Ph.D.)　→　[モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
-    Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) → 地経学研究所 / PwC Japan<br>
-    時　海萌 　前職：学部生（早稲田）、現在：国内印刷会社→フリーター（IT系スタートアップ） <br>
-    森田曜光　前職：学部生（学習院）、現在：アセットマネイジメントOne <br>
-    菅原雄一　早大（BA 政治学) →　ブラッドフォード大学修士（紛争解決）→ 国連PKO　→　早大（修士　政治学）→ 国際連合平和活動局（ニューヨーク本部）→国連プロジェクトサービス機関 (UNOPS)駐日代表代行　→　国連開発計画(UNDP)中東地域事務所（ヨルダン・アンマン） <br>
-    井奥崇輔　前職：東大（BA 哲学, MPP 公共政策）→ 早大政治学研究科、現在：[米ロチェスター大学Ph.D. candidate(政治学）](https://shusuke-ioku.github.io) <br>
-    片山貴裕　　前職：航空自衛隊幹部学校航空研究センター、現在：航空自衛隊南西航空方面隊司令部 <br>
-    Ban Ali　前職：学部生（早稲田）、現在： <br>
-    青柳加奈子　前職、現在：航空自衛隊幹部学校航空研究センター <br>
-    小林（北村）奈緒香　前職：学部生（立命館）、現在：アクセンチュア <br>
-    本山功　前職：学部生（早稲田）、現在：防衛省防衛研究所 / 防衛省防衛政策局 <br>
-    仁科有美子　前職：防衛省（航空幕僚監部）、現在：NEC <br>
-    Lawrence McDonald-Colbert　前職：学部生（エディンバラ大学）、現在：英国国防省 <br>
-    Nate Biederman　前職：米海兵隊 <br>
-    東田莉子　前職：学部生（エディンバラ大学） <br>
-    Alyssa Maynard　前職：学部生（UCLA）<br>
-    Neriah Tan　前職：学部生（Singapore Management University）<br>
-    井原千絵　前職：学部生（関西学院大学） <br>
-    Mgnus Ander　前職：学部生（xxx）<br>
-    前田莉那　前職：学部生（青山学院大学）<br>
+    - 玉水玲央　早大卒業→早大修士→ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
+    - 武井槙人　早大卒業→早大修士→北テキサス大学博士（Ph.D.)　→　[モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
+    - Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) → 地経学研究所 / PwC Japan<br>
+    - 時　海萌 　前職：学部生（早稲田）、現在：国内印刷会社→フリーター（IT系スタートアップ） <br>
+    - 森田曜光　前職：学部生（学習院）、現在：アセットマネイジメントOne <br>
+    - 菅原雄一　早大（BA 政治学) →　ブラッドフォード大学修士（紛争解決）→ 国連PKO　→　早大（修士　政治学）→ 国際連合平和活動局（ニューヨーク本部）→国連プロジェクトサービス機関 (UNOPS)駐日代表代行　→　国連開発計画(UNDP)中東地域事務所（ヨルダン・アンマン） <br>
+    - 井奥崇輔　前職：東大（BA 哲学, MPP 公共政策）→ 早大政治学研究科、現在：[米ロチェスター大学Ph.D. candidate(政治学）](https://shusuke-ioku.github.io) <br>
+    - 片山貴裕　　前職：航空自衛隊幹部学校航空研究センター、現在：航空自衛隊南西航空方面隊司令部 <br>
+    - Ban Ali　前職：学部生（早稲田）、現在： <br>
+    - 青柳加奈子　前職、現在：航空自衛隊幹部学校航空研究センター <br>
+    - 小林（北村）奈緒香　前職：学部生（立命館）、現在：アクセンチュア <br>
+    - 本山功　前職：学部生（早稲田）、現在：防衛省防衛研究所 / 防衛省防衛政策局 <br>
+    - 仁科有美子　前職：防衛省（航空幕僚監部）、現在：NEC <br>
+    - Lawrence McDonald-Colbert　前職：学部生（エディンバラ大学）、現在：英国国防省 <br>
+    - Nate Biederman　前職：米海兵隊 <br>
+    - 東田莉子　前職：学部生（エディンバラ大学） <br>
+    - Alyssa Maynard　前職：学部生（UCLA）<br>
+    - Neriah Tan　前職：学部生（Singapore Management University）<br>
+    - 井原千絵　前職：学部生（関西学院大学） <br>
+    - Magnus Ander　前職：学部生（xxx）<br>
+    - 前田莉那　前職：学部生（青山学院大学）<br>
 
 ## 栗崎の指導教官
 - UCLAでの博士論文委員会 <br>
