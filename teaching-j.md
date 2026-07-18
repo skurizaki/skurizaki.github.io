@@ -128,7 +128,7 @@ layout: default
   - <b>博士課程</b> <br>
     - [淺野塁　現在：西南学院大学法学部准教授](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
     - [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
-    - [田中（坂部）有佳子　就職：共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
+    - 田中（坂部）有佳子　就職：青山学院大学 → 一橋大学 → [共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
     - 玉水玲央　早大卒業→早大修士→ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
     - 武井槙人　早大卒業→早大修士→北テキサス大学博士（Ph.D.)　→　[モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
