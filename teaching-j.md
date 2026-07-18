@@ -34,12 +34,12 @@ layout: default
 
 ## 在籍学生・卒業生・修了生
 - 学部ゼミ
-  - <b>2013-14年度</b> <br>
+  - <b>2013-14年度 (1期）</b> <br>
     - 小石隆也　現在：Ernst & Young (EY) Advisory　→　Optimum Solutions<br>
     - 福岡杏里紗　現在：デロイト・トーマツ <br>
     - 小石未菜　現在： 海外在住のブロガー<br>
     - 他2名 <br>
-  - <b>2014-15年度</b> <br>
+  - <b>2014-15年度 (2期）</b> <br>
     - 石田早帆子　現在：LSE統計学部 Ph.D. → [オックスフォード大学コンピュータサイエンス学部 research associate (ポスドク)](https://www.cs.ox.ac.uk/people/sahoko.ishida/) <br>
     - 板橋飛雄馬　現在：KPMG Japan ← 伊藤忠商事 <br>
     - 柏木柚香　現在：[日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
@@ -50,16 +50,16 @@ layout: default
     - 高木　要　現在：三菱UFJ信託銀行 → Hulu → LegalOn Technologies → 株式会社TrailBlazer (Data analyst) <br>
     - Yana Otlan　現在：UCLA政治学部博士課程 →　英国調査会社 (Templeton Research) <br>
     - 他3名 <br>
-  - <b>2015-16年度</b> <br>
+  - <b>2015-16年度 (3期）</b> <br>
     - 関口雅啓　現在：リクルート ←　JMDC ← PwCコンサルティング<br>
     - 瀧澤朋郎（公認会計士）　現在：Ernst & Young 新日本有限責任監査法人 <br>
     - 小島敦幹　現在：アマゾンWeb Services (AWS) Dublin <br>→ Proximus Ada as Data Scientist <br>
     - 徳田誠太郎　現在：東映 <br>
     - 佐藤和煇　現在：三井住友信託銀行 <br>
     - 他3名 <br>
-  - <b>2016-17年度</b> <br>
+  - <b>2016-17年度 (4期）</b> <br>
     - 地挽直也 <br>
-  - <b>2017-18年度</b> <br>
+  - <b>2017-18年度 (5期）</b> <br>
     - 成珂 (Ke Cheng)　現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     - 工藤俊平　現在：IBM　→　Accenture <br>
     - 西野杏菜　現在：日本経済新聞社（データジャーナリズム） <br>
@@ -70,7 +70,7 @@ layout: default
     　（チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
     - 寺田篤史　現在：EYパルテノン <br>
     - 他3名 <br>
-  - <b>2018-19年度</b> <br>
+  - <b>2018-19年度 (6期）</b> <br>
     - 本山功　現在：防衛省防衛政策局 <- [防衛省防衛研究所研究員](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
     - 藤生梨乃　現在：日本総合研究所 <br>
     - 太田奈歩　現在：[カリフォルニア大学サンディエゴ校(UCSD)政治学部Ph.D.課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
@@ -84,7 +84,7 @@ layout: default
     - 橋本龍太郎　現在：GAテック ← プルデンシャル Japan ← ミシガン大学統計学部, MS in Data Science<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
-  - <b>2019-2020年度</b><br>
+  - <b>2019-2020年度 (7期）</b><br>
     - 入原充輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     - 温ビチャン　現在：野村證券 → BlackRock<br>
     - [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　<br>
@@ -98,7 +98,7 @@ layout: default
     　→ （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
     - Luigi Ludwig　現在：シティバンク（グローバルマーケッツ） <br>
     - Weiyuan Chen　現在：Accenture Japan <br>
-  - <b>2020-21年度</b> <br>
+  - <b>2020-21年度 (8期）</b> <br>
     - 朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
     - 小磯　慎士　現在：ノースウェスタン大学経済学部Ph.D. <- [東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科4位卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/))＋ ["Media Dysfunction and Democratic Backsliding"（2021年度早稻田大學政治經濟學會優秀賞）](https://www.waseda.jp/fpse/pse/assets/uploads/2022/03/e03f565f219becf9041bfe01725f65d1.pdf))<br>
@@ -107,16 +107,16 @@ layout: default
     - Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
     - 橋場芽衣　現在：フィリップ・モリス <br>
     　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））<br>
-  - <b>2024-2025年度</b> <br>
+  - <b>2024-2025年度 (9期）</b> <br>
     - 金島匠見 → 東京大学大学院経済学研究科<br>
     - 徳永悠真 → 株式会社 BeyondMarket 代表取締役/CEO<br>
     - 上野貴裕 → 三菱重工業 <br>
     - Jisu Eom → 進学（予定）<br>
-  - <b>2025-26年度</b> <br>
+  - <b>2025-26年度 (10期）</b> <br>
     - 梶谷惟人 <br>
     - 鈴木康生 <br>
     - Christie Wang <br>
-  - <b>2026-27年度</b> <br>
+  - <b>2026-27年度 (11期）</b> <br>
     - 松本教聖 <br>
     - 塩河優希 <br>
     - 熊野悠希 <br>
