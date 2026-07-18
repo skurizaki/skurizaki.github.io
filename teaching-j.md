@@ -130,9 +130,9 @@ layout: default
     - [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
     - 田中（坂部）有佳子　就職：青山学院大学 → 一橋大学 → [共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
-    - 玉水玲央　早大卒業→早大修士→ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
-    - 武井槙人　早大卒業→早大修士→北テキサス大学博士（Ph.D.)　→　[モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
-    - Andrew Capistrano　前職：学部生（UCバークレー）、現在：[ロンドンスクール（LSE）（国際関係史、博士）](https://www.lse.ac.uk/International-History/People/PhD/capistrano/capistrano) → 地経学研究所 / PwC Japan<br>
+    - 玉水玲央　早大(BA, MA) →ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
+    - 武井槙人　早大(BA, MA) →北テキサス大学博士（Ph.D.)　→　[モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
+    - Andrew Capistrano　UCバークレー(BA）→ 早大(MA)　→：ロンドンスクール（LSE）（国際関係史、PhD）→ 地経学研究所 / PwC Japan<br>
     - 時　海萌 　前職：学部生（早稲田）、現在：国内印刷会社→フリーター（IT系スタートアップ） <br>
     - 森田曜光　前職：学部生（学習院）、現在：アセットマネイジメントOne <br>
     - 菅原雄一　早大（BA 政治学) →　ブラッドフォード大学修士（紛争解決）→ 国連PKO　→　早大（修士　政治学）→ 国際連合平和活動局（ニューヨーク本部）→国連プロジェクトサービス機関 (UNOPS)駐日代表代行　→　国連開発計画(UNDP)中東地域事務所（ヨルダン・アンマン） <br>
