@@ -129,6 +129,7 @@ layout: default
     - [淺野塁　現在：西南学院大学法学部准教授](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html)  <br>
     - [Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師](https://politicsir.cass.anu.edu.au/people/dr-ruosui-kelly-zhang)<br>
     - 田中（坂部）有佳子　就職：青山学院大学 → 一橋大学 → [共立女子大学国際関係学部准教授](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
+    - Neriah Tan　Singapore Management University(BA)→ 早大(MA) → <br>
   - <b>修士課程</b> <br>
     - 玉水玲央　早大(BA, MA) →ニューヨーク市立大学博士（Ph.D.)　→　日本国際問題研究所 　→ [大阪経済法科大学准教授](https://www.keiho-u.ac.jp/faculty/teacher/tamamizu-l.html)<br>
     - 武井槙人　早大(BA, MA) →北テキサス大学博士（Ph.D.)　→　[モンテレイ工科大学助教授](https://research.tec.mx/vivo-tec/display/PID_496649) <br>
@@ -138,16 +139,15 @@ layout: default
     - 菅原雄一　早大（BA 政治学) →　ブラッドフォード大学修士（紛争解決）→ 国連PKO　→　早大（修士　政治学）→ 国際連合平和活動局（ニューヨーク本部）→国連プロジェクトサービス機関 (UNOPS)駐日代表代行　→　国連開発計画(UNDP)中東地域事務所（ヨルダン・アンマン） <br>
     - 井奥崇輔　東大（BA, MPP）→ 早大（MA）→ 米ロチェスター大学Ph.D.(政治学）→ [名古屋市立大学経済学部](https://shusuke-ioku.github.io) <br>
     - 片山貴裕　　早大（BA) → 航空自衛隊(幹部学校航空研究センター) → 早大（MA) → 航空自衛隊南西航空方面隊司令部 <br>
-    - Ban Ali　前職：学部生（早稲田）、現在： <br>
-    - 青柳加奈子　前職、現在：航空自衛隊幹部学校航空研究センター <br>
-    - 小林（北村）奈緒香　前職：学部生（立命館）、現在：アクセンチュア <br>
-    - 本山功　前職：学部生（早稲田）、現在：防衛省防衛研究所 / 防衛省防衛政策局 <br>
-    - 仁科有美子　前職：防衛省（航空幕僚監部）、現在：NEC <br>
-    - Lawrence McDonald-Colbert　前職：学部生（エディンバラ大学）、現在：英国国防省 <br>
+    - Ban Ali　早稲田(BA, MA）→ オレゴン州立大学： <br>
+    - 青柳加奈子　福島大（BA) → 航空自衛隊(幹部学校航空研究センター) → 早大（MA) → 航空自衛隊 <br>
+    - 小林（北村）奈緒香　立命館(BA）→ 早大(MA) → アクセンチュア <br>
+    - 本山功　早稲田(BA, MA）→ 防衛省防衛研究所 / 防衛省防衛政策局 <br>
+    - 仁科有美子　防衛省（航空幕僚監部）→ 早大(MA) → NEC <br>
+    - Lawrence McDonald-Colbert　エディンバラ大学(BA)→ 早大(MA) → 英国国防省 <br>
     - Nate Biederman　前職：米海兵隊 <br>
-    - 東田莉子　前職：学部生（エディンバラ大学） → 民間企業就職<br>
-    - Alyssa Maynard　前職：学部生（UCLA）<br>
-    - Neriah Tan　前職：学部生（Singapore Management University）<br>
+    - 東田莉子　エディンバラ大学(BA)→ 早大(MA) → 民間企業就職<br>
+    - Alyssa Maynard　UCLA(BA)→ 早大(MA) → <br>
     - 井原千絵　前職：学部生（関西学院大学） <br>
     - Magnus Ander　前職：学部生（xxx）<br>
     - 前田莉那　前職：学部生（青山学院大学）<br>
