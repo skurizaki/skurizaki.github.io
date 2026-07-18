@@ -57,6 +57,8 @@ layout: default
     - 徳田誠太郎　現在：東映 <br>
     - 佐藤和煇　現在：三井住友信託銀行 <br>
     - 他3名 <br>
+  - <b>2017年度卒業</b> <br>
+    - 地挽直也 <br>
   - <b>2018年度卒業</b> <br>
     - 成珂 (Ke Cheng)　現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     - 工藤俊平　現在：IBM　→　Accenture <br>
