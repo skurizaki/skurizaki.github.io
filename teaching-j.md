@@ -32,7 +32,7 @@ layout: default
   - 国際安全保障　gacco (NTT Docomo), 2014
   - 核抑止理論 (核戦略講座）, 統合幕僚学校, 防衛省・統合幕僚監部, 2025
 
-## 在籍学生・卒業生・修了生 #123
+## 在籍学生・卒業生・修了生
 - 学部ゼミ
   - <b>2013-14年度 (1期）</b> <br>
     - 小石隆也　現在：Ernst & Young (EY) Advisory　→　Optimum Solutions<br>
