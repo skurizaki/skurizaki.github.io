@@ -44,7 +44,7 @@ layout: default
     - 板橋飛雄馬　現在：KPMG Japan ← 伊藤忠商事 <br>
     - 柏木柚香　（カナダ留学）現在：[日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
     　→ (早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
-    - 倉嶋麻里　現在：　KPMGジャパン　←　アイリス株式会社／ 東京大学医学系研究科公共健康医学専攻 <br>
+    - 倉嶋麻里　(ブリュッセル自由大学) 現在：　KPMGジャパン　←　アイリス株式会社／ 東京大学医学系研究科公共健康医学専攻 <br>
     - 小久保孝咲　[現在：株式会社クロスビット Xbit 創業者・CEO](https://x-bit.co.jp/company) <br>
     - 西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
     - 高木　要　現在：三菱UFJ信託銀行 → Hulu → LegalOn Technologies → 株式会社TrailBlazer (Data analyst) <br>
@@ -53,7 +53,7 @@ layout: default
   - <b>2015-16年度 (3期）</b> <br>
     - 関口雅啓　現在：リクルート ←　JMDC ← PwCコンサルティング<br>
     - 瀧澤朋郎（公認会計士）　現在：Ernst & Young 新日本有限責任監査法人 <br>
-    - 小島敦幹　現在：アマゾンWeb Services (AWS) Dublin <br>→ Proximus Ada as Data Scientist <br>
+    - 小島敦幹　(ドイツ留学)現在：アマゾンWeb Services (AWS) Dublin <br>→ Proximus Ada as Data Scientist <br>
     - 徳田誠太郎　現在：東映 <br>
     - 佐藤和煇　現在：三井住友信託銀行 <br>
     - 他3名 <br>
