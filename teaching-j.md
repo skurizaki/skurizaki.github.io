@@ -36,13 +36,13 @@ layout: default
 - 学部ゼミ
   - <b>2013-14年度 (1期）</b> <br>
     - 小石隆也　現在：Ernst & Young (EY) Advisory　→　Optimum Solutions<br>
-    - 福岡杏里紗　現在：デロイト・トーマツ <br>
+    - 福岡杏里紗　（ダブリン留学）現在：デロイト・トーマツ <br>
     - 小石未菜　現在： 海外在住のブロガー<br>
     - 他2名 <br>
   - <b>2014-15年度 (2期）</b> <br>
     - 石田早帆子　現在：LSE統計学部 Ph.D. → [オックスフォード大学コンピュータサイエンス学部 research associate (ポスドク)](https://www.cs.ox.ac.uk/people/sahoko.ishida/) <br>
     - 板橋飛雄馬　現在：KPMG Japan ← 伊藤忠商事 <br>
-    - 柏木柚香　現在：[日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
+    - 柏木柚香　（カナダ留学）現在：[日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
     　→ (早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
     - 倉嶋麻里　現在：　KPMGジャパン　←　アイリス株式会社／ 東京大学医学系研究科公共健康医学専攻 <br>
     - 小久保孝咲　[現在：株式会社クロスビット Xbit 創業者・CEO](https://x-bit.co.jp/company) <br>
@@ -62,8 +62,8 @@ layout: default
   - <b>2017-18年度 (5期）</b> <br>
     - 成珂 (Ke Cheng)　現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     - 工藤俊平　現在：IBM　→　Accenture <br>
-    - 西野杏菜　現在：日本経済新聞社（データジャーナリズム） <br>
-    - 佐々木祐輔　現在：NHK（制作） <br>
+    - 西野杏菜　(北京大学留学) 現在：日本経済新聞社（データジャーナリズム） <br>
+    - 佐々木祐輔　(復旦大学留学)　現在：NHK（制作） <br>
     - 近倫人　現在：ZSアソシエイツ<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
     - 林祐志　現在：KPMG <- 起業 <- Accenture <- Bloomberg L.P. Market Data Analyst <br>
@@ -71,7 +71,7 @@ layout: default
     - 寺田篤史　現在：EYパルテノン <br>
     - 他3名 <br>
   - <b>2018-19年度 (6期）</b> <br>
-    - 本山功　 早大大学院（政治学 MA）→ [防衛省防衛研究所 / 防衛省防衛政策局](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
+    - 本山功　（UCLA留学） 早大大学院（政治学 MA）→ [防衛省防衛研究所 / 防衛省防衛政策局](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
     - 藤生梨乃　現在：日本総合研究所 <br>
     - 太田奈歩　現在：[カリフォルニア大学サンディエゴ校(UCSD)政治学部Ph.D.課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
     - 遠田航平　現在： アビームコンサルティング<br>
@@ -79,21 +79,21 @@ layout: default
     - 望戸薫　現在：Ernst & Young Advisory, Consulting <br>
     - 清水魁星　現在：NHK (記者) <br>
     - 伊藤千夏　現在：株式会社システナ <br>
-    - 久保麟太郎　現在：財務省 → 英LSE大学大学院<br>
+    - 久保麟太郎　（アルバータ大学留学）現在：財務省 → 英LSE大学大学院<br>
     - 橋本龍太郎　現在：GAテック ← プルデンシャル Japan ← ミシガン大学統計学部, MS in Data Science<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2019-2020年度 (7期）</b><br>
     - 入原充輝　現在：デロイト（データサイエンティスト）← ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     - 温ビチャン　現在：野村證券 → BlackRock<br>
-    - [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　← ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
+    - [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　弁護士 アソシエイト[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)　← ブリティッシュコロンビア大学, Law School, 法務博士JD （シカゴ大学留学）<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
     - 久保田雪華　現在： 三菱UFJ銀行<br>
     - 鈴木輝 　現在：Accenture (Data science consultant) <br>
     - 坂東茉唯　現在：三井物産 （ニューヨーク支店）<br>
-    - 平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
+    - 平野真帆　現在：Googleジャパン, Associate Account Strategist （UCバークレー留学）<br>
     - 中村健太郎　現在：シカゴ大学統計学部修士課程　→　[ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura)<br>
-    　→ （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
+    　→ （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）、U of George Washington留学<br>
     - Luigi Ludwig　現在：シティバンク（グローバルマーケッツ） <br>
     - Weiyuan Chen　現在：Accenture Japan <br>
   - <b>2020-21年度 (8期）</b> <br>
@@ -104,7 +104,7 @@ layout: default
     - 菊地優　現在：株式会社 ツムラ <br>
     - Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
     - 橋場芽衣　現在：フィリップ・モリス <br>
-    　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））<br>
+    　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））、UNC留学<br>
   - <b>2024-2025年度 (9期）</b> <br>
     - 金島匠見 → 東京大学大学院経済学研究科<br>
     - 徳永悠真 → 株式会社 BeyondMarket 代表取締役/CEO<br>
@@ -117,9 +117,9 @@ layout: default
   - <b>2026-27年度 (11期）</b> <br>
     - 松本教聖 <br>
     - 塩河優希 <br>
-    - 熊野悠希 <br>
+    - 熊野悠希 (ミラノ大学留学中)<br>
     - 福元英二郎 <br>
-    - 金子幹幸 <br>
+    - 金子幹幸 (北京大学留学)<br>
 - 大学院（指導、主査、博士課程は副査を含む）
   - <b>ポスドク</b> <br>
     - [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
