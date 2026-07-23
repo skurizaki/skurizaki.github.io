@@ -3,7 +3,7 @@ layout: default
 ---
 [/ Home](./index-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching-j.md) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media-j.md) [/ Homepage (English)](https://skurizaki.github.io)
 
-## 栗崎周平
+## 栗崎 周平 （くりざき しゅうへい）
 
 - <b>CV</b><br>
 Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) (最終更新: 2024年2月11日)<br>
@@ -48,9 +48,8 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 外務省KAKEHASHIプロジェクト（ワシントンDC）派遣2017年<br>
 外務省KAKEHASHIプロジェクト講師（早稲田大学）2015年<br>
 広島県平和推進プロジェクト2018, 2019, 2020, 2021, 2022, 2023, 2024<br>
-財務省 財政総合研究所 共同研究・委託研究<br>
-国内コンサルティング企業 技術指導　2023年－現在<br>
-国内AI開発・コンサルティング企業 事業開発　2023年－現在<br>
-国内機械製造企業 共同研究・委託研究　2023年－現在<br>
+財務省 財政総合研究所 共同研究・委託研究 2022, 2023, 2024, 2025, 2026<br>
+経済産業省通商政策局通商戦略課 委託研究 2025-2026<br>
+国内機械製造企業 共同研究・委託研究　2023年<br>
 英国調査・情報企業 業務協力　2024年－現在<br>
-防衛省「防衛力の抜本的強化に関する有識者会議」（仮称）委員 2024年－現在<br>
+防衛省「防衛力の抜本的強化に関する有識者会議」（仮称）委員 2024－2026年<br>
