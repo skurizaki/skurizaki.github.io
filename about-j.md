@@ -3,6 +3,8 @@ layout: default
 ---
 [/ Home](./index-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching-j.md) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media-j.md) [/ Homepage (English)](https://skurizaki.github.io)
 
+## 栗崎周平
+
 - <b>CV</b><br>
 Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) (最終更新: 2024年2月11日)<br>
 履歴書 (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhwbz8nr4whh6ubvps1ub/kurizaki-cv-jp.pdf?rlkey=cjrst6j1aomy020ocwlsaaclj&dl=0) (最終更新: 2024年2月11日)<br>
@@ -18,13 +20,13 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 
 - <b>その他の経歴</b><br>
 2014年　　[JMOOC](https://www.jmooc.jp/en/)講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講（受講者数1万人強）<br>
-2018年－現在　[ひろしまラウンドテーブル](https://www.pref.hiroshima.lg.jp/soshiki/232/](https://hiroshimaforpeace.com/roundtable/))<br>
+2018－2025年　[ひろしまラウンドテーブル](https://www.pref.hiroshima.lg.jp/soshiki/232/](https://hiroshimaforpeace.com/roundtable/))<br>
 2020年－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
 2021年－2025年　文部科学省 科学技術・学術審議会学術分科会研究環境基盤部会　委員<br>
-2022年－現在　[国立情報学研究所](https://www.nii.ac.jp/faculty/list/visiting-profs/) 客員准教授<br>
 2022年－現在　財務省財政総合研究所 特別研究官<br>
+2022年－現在　[国立情報学研究所](https://www.nii.ac.jp/faculty/list/visiting-profs/) 客員准教授<br>
+2024－2026年　防衛省[防衛力の抜本的強化に関する有識者会議](https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/index.html)委員<br>
 2024年－現在　[<i>Japanese Journal of Political Science</i>](https://www.cambridge.org/core/journals/japanese-journal-of-political-science) (Cambridge University Press) 編集長(Editor-in-Chief)<br>
-2024年－現在　防衛省[防衛力の抜本的強化に関する有識者会議](https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/index.html)委員<br>
 
 - <b>受賞</b><br>
   2005年　[カール・ベック (Carl Beck) 賞](https://www.isanet.org/Programs/Awards/Carl-Beck)：[国際関係学会 (International Studies Association)](https://www.isanet.org/) 年間最優秀論文賞<br>
