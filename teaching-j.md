@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media-j.md) [/ Homepage (English)](https://skurizaki.github.io) 
+[/ Home](./index-j.md) [/ cv･略歴](./about-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media-j.md) [/ Homepage (English)](https://skurizaki.github.io) 
 
 ## 担当授業
 - 学部
