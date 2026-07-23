@@ -62,7 +62,7 @@ layout: default
   - <b>2017-18年度 (5期）</b> <br>
     - 成珂 (Ke Cheng)　現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     - 工藤俊平　現在：IBM　→　Accenture <br>
-    - 西野杏菜　(北京大学留学) 現在：日本経済新聞社（データジャーナリズム） <br>
+    - [西野杏菜](https://www.nikkei.com/topics/22A03689)　(北京大学留学) 現在：日本経済新聞社（データジャーナリズム） <br>
     - 佐々木祐輔　(復旦大学留学)　現在：NHK（制作） <br>
     - 近倫人　現在：ZSアソシエイツ<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
