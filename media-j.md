@@ -4,10 +4,13 @@ layout: default
 [/ Home](./index-j.md) [/ cv･略歴](./about-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching-j.md) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ Homepage (English)](https://skurizaki.github.io/) 
 
 ## 一般向けの研究紹介・インタビューのメディア掲載
+- 2025月4月28日[「ファーウェイの真意　中国半導体供給網と特許データ分析で見えた「二段構え戦略」」](https://business.nikkei.com/atcl/gen/19/00902/071700007/)『日経ビジネス』2026年7月27日号<br>
+  - [【膨張ファーウェイ】ＥＵＶ諦めぬ中国の野望、中心にファーウェイ　半導体供給網と特許出願を分析](https://xtech.nikkei.com/atcl/nxt/column/18/03693/071800006/)『日経クロステック』<br>
 - 2026月4月27日「レアアース争奪戦：中国覇権のリアルと日米豪反撃シナリオ」『日経ビジネス』2026年4月27日号<br>
   - (日経新聞2026年5月29日転載)
-- 2025月4月28日「世界の支配者ランキング：データで暴く米中資本戦争」『日経ビジネス』2025年4月28日号<br>
-  - (日経新聞2025年4月25日転載)
+- 2025月4月28日[「世界の支配者ランキング：データで暴く米中資本戦争」](https://business.nikkei.com/atcl/NBD/19/special/02118/)『日経ビジネス』2025年4月28日号<br>
+  - [「世界の支配者ランキング：シリーズ」](https://business.nikkei.com/atcl/gen/19/00742/)
+  - 日経新聞2025年6月2日転載[「資本の論理で中国に対抗する米国、頂点はブラックロック」]https://www.nikkei.com/article/DGXZQOUC218HQ0R20C25A5000000/『日本経済新聞』2025年6月2日<br>
 - 2024年4月5日：[「中国資本に染まる世界の港湾・電力：実行部隊の国有企業に狙われる」](https://business.nikkei.com/atcl/NBD/19/special/01753/) 『日経ビジネス』2024年4月8日号<br>
   - （短縮版）[「中国資本が「欧州への玄関口」の実権握る　狙われた港湾・電力」](https://business.nikkei.com/atcl/gen/19/00485/040400069/)『日経ビジネス』デジタル版 2024年4月11日<br>
   - 特集記事に水野貴之氏（国立情報学研究所）と共に論点の提示と事例紹介それを裏付けるデータ分析などを提供しました。NPI (Network Power Index) および NPF (Network Power Flow) に関する下記の研究に基づいた分析です。
