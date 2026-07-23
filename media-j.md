@@ -8,7 +8,7 @@ layout: default
   - [【膨張ファーウェイ】ＥＵＶ諦めぬ中国の野望、中心にファーウェイ　半導体供給網と特許出願を分析](https://xtech.nikkei.com/atcl/nxt/column/18/03693/071800006/)『日経クロステック』<br>
 - 2026月4月27日[「レアアース争奪戦：中国覇権のリアルと日米豪反撃シナリオ」](https://business.nikkei.com/atcl/NBD/19/special/02481/)『日経ビジネス』2026年4月27日・5月4日号<br>
   - [「データ解析：レアアース争奪戦：シリーズ」](https://business.nikkei.com/atcl/gen/19/00867/)
-  - (日経新聞2026年5月29日転載)
+  - (日経新聞2026年5月29日転載)[「中国レアアース支配、狙われた日本の自動車産業　供給網データ分析」](https://www.nikkei.com/article/DGXZQOUC192X30Z10C26A5000000/) 『日本経済新聞』2026年5月29日<br>
 - 2025月4月28日[「世界の支配者ランキング：データで暴く米中資本戦争」](https://business.nikkei.com/atcl/NBD/19/special/02118/)『日経ビジネス』2025年4月28日・5月5日号<br>
   - [「データ解析：世界の支配者ランキング：シリーズ」](https://business.nikkei.com/atcl/gen/19/00742/)
   - 日経新聞2025年6月2日転載[「資本の論理で中国に対抗する米国、頂点はブラックロック」](https://www.nikkei.com/article/DGXZQOUC218HQ0R20C25A5000000/)『日本経済新聞』2025年6月2日<br>
