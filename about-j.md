@@ -19,7 +19,7 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 2021－2023年　[スタンフォード大学国際安全保障協力センター (CISAC)](https://cisac.fsi.stanford.edu) 客員研究員<br>
 
 - <b>その他の経歴</b><br>
-2014年　　[JMOOC](https://www.jmooc.jp/en/)講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講（受講者1万人強）<br>
+2014年　[JMOOC](https://www.jmooc.jp/en/)講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講（受講者1万人強）<br>
 2018－2025年　[ひろしまラウンドテーブル](https://www.pref.hiroshima.lg.jp/soshiki/232/](https://hiroshimaforpeace.com/roundtable/))<br>
 2020－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
 2021－2025年　文部科学省 科学技術・学術審議会学術分科会研究環境基盤部会　委員<br>
