@@ -4,7 +4,7 @@ layout: default
 [/ Home](./index-j.md) [/ cv･略歴](./about-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching-j.md) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ Homepage (English)](https://skurizaki.github.io/) 
 
 ## 一般向けの研究紹介・インタビューのメディア掲載
-- 2025月4月28日[「ファーウェイの真意　中国半導体供給網と特許データ分析で見えた「二段構え戦略」」](https://business.nikkei.com/atcl/gen/19/00902/071700007/)『日経ビジネス』2026年7月27日号<br>
+- 2026月7月22日[「ファーウェイの真意　中国半導体供給網と特許データ分析で見えた「二段構え戦略」」](https://business.nikkei.com/atcl/gen/19/00902/071700007/)『日経ビジネス』2026年7月27日号<br>
   - [【膨張ファーウェイ】ＥＵＶ諦めぬ中国の野望、中心にファーウェイ　半導体供給網と特許出願を分析](https://xtech.nikkei.com/atcl/nxt/column/18/03693/071800006/)『日経クロステック』<br>
 - 2026月4月27日[「レアアース争奪戦：中国覇権のリアルと日米豪反撃シナリオ」](https://business.nikkei.com/atcl/NBD/19/special/02481/)『日経ビジネス』2026年4月27日・5月4日号<br>
   - [「データ解析：レアアース争奪戦：シリーズ」](https://business.nikkei.com/atcl/gen/19/00867/)
