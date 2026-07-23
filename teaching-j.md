@@ -107,7 +107,7 @@ layout: default
     　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））、UNC留学<br>
   - <b>2024-2025年度 (9期）</b> <br>
     - 金島匠見 (南洋理工大学留学)→ 東京大学大学院経済学研究科<br>
-    - 徳永悠真 → 株式会社 BeyondMarket 代表取締役/CEO<br>
+    - 徳永悠真 → [株式会社 BeyondMarket](https://beyondmarket.jp) 代表取締役/CEO<br>
     - 上野貴裕 → 三菱重工業 <br>
     - Jisu Eom → 進学（予定）<br>
   - <b>2025-26年度 (10期）</b> <br>
