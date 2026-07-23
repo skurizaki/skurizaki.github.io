@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[/ Home](https://skurizaki.github.io/jpn/) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [/ Homepage (English)](https://skurizaki.github.io)
+[/ Home](./index-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching-j.md) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media-j.md) [/ Homepage (English)](https://skurizaki.github.io)
 
 - <b>CV</b><br>
 Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) (最終更新: 2024年2月11日)<br>
