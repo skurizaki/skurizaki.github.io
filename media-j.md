@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ Homepage (English)](https://skurizaki.github.io/) 
+[/ Home](./index-j.md) [/ cv･略歴](./about-j.md) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching-j.md) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ Homepage (English)](https://skurizaki.github.io/) 
 
 ## 一般向けの研究紹介・インタビューのメディア掲載
 - 2024年4月5日：[「中国資本に染まる世界の港湾・電力：実行部隊の国有企業に狙われる」](https://business.nikkei.com/atcl/NBD/19/special/01753/) 『日経ビジネス』2024年4月8日号<br>
