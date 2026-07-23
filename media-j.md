@@ -9,7 +9,7 @@ layout: default
 - 2026月4月27日[「レアアース争奪戦：中国覇権のリアルと日米豪反撃シナリオ」](https://business.nikkei.com/atcl/NBD/19/special/02481/)『日経ビジネス』2026年4月27日・5月4日号<br>
   - [「データ解析：レアアース争奪戦：シリーズ」](https://business.nikkei.com/atcl/gen/19/00867/)
   - (日経新聞2026年5月29日転載)
-- 2025月4月28日[「世界の支配者ランキング：データで暴く米中資本戦争」](https://business.nikkei.com/atcl/NBD/19/special/02118/)『日経ビジネス』2025年4月28日号<br>
+- 2025月4月28日[「世界の支配者ランキング：データで暴く米中資本戦争」](https://business.nikkei.com/atcl/NBD/19/special/02118/)『日経ビジネス』2025年4月28日・5月5日号<br>
   - [「データ解析：世界の支配者ランキング：シリーズ」](https://business.nikkei.com/atcl/gen/19/00742/)
   - 日経新聞2025年6月2日転載[「資本の論理で中国に対抗する米国、頂点はブラックロック」](https://www.nikkei.com/article/DGXZQOUC218HQ0R20C25A5000000/)『日本経済新聞』2025年6月2日<br>
 - 2024年4月5日：[「中国資本に染まる世界の港湾・電力：実行部隊の国有企業に狙われる」](https://business.nikkei.com/atcl/NBD/19/special/01753/) 『日経ビジネス』2024年4月8日号<br>
